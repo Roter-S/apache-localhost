@@ -34,7 +34,7 @@
             </a>
           </li>
           <li>
-            <a href="http://localhost/phpmyadmin" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent flex">
+            <a href="http://localhost/phpmyadmin" class="block py-2 pl-3 pr-4 rounded md:border-0 md:p-0 text-white hover:text-blue-500 flex">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" class="h-6" alt="">
               <span class="ml-2">phpMyAdmin</span>
             </a>
